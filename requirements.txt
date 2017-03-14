@@ -1,0 +1,4 @@
+# Python 3.5 compatibility
+# XGBoost==0.6
+# pandas==0.19.1
+# geopandas==0.2.1
